@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: An Express Flashcards API
 servers:
-  - url: http://localhost:8000
+  - url: https://skillstacks.onrender.com
     variables: {}
 paths:
   /api/v1/user/register:
